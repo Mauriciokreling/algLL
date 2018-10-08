@@ -17,7 +17,7 @@ int a; //inteiro
 float b; //real (ponto flutuante)
 double c; // real(maior precisao do numero)
 bool d; //booleano (verdadeiro/falso) (true/false)
-
+int fd;
 int main()
 {
 	//varivel local (visivel somente nesta funcao, a partir dessa linha)
