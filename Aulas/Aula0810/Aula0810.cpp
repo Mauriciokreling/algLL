@@ -43,7 +43,7 @@ int main()
 	int f = a + e;
 	printf("o resultado da some é: %i\n\n", f);
 
-	//leitura SCANF / SCANF_S
+	//leitura SCANF_S
 
 	printf("digite um valor: ");
 
